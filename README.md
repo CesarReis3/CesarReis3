@@ -5,8 +5,12 @@
 
 
 
-- Atualmente cursando Analise e Desenvolvimento de Sistemas.
+## Sobre mim  
+- 🎓 Sou formado em **Análise e Desenvolvimento de Sistemas** e estou sempre em busca de novos desafios e aprendizado na área de tecnologia.
+- 🖥️ Já trabalhei como **Helpdesk**, adquirindo experiência em suporte técnico e resolução de problemas.  
+- 💻 Atualmente sou **Programador Trainee** focado em **.NET** e **C#**, onde desenvolvo soluções robustas e escaláveis.
 
+  
 ### Estou aprendendo
 
 
